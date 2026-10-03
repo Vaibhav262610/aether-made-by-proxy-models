@@ -1,0 +1,16 @@
+{
+  "name": "AETHER — Reality, Redesigned",
+  "short_name": "AETHER",
+  "description": "The next evolution of spatial computing. Where intelligence becomes experience.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0f",
+  "theme_color": "#0a0a0f",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
